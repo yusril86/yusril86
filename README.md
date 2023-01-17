@@ -8,4 +8,4 @@ welcome to my profile
 </a>
 <br> -->
 
-![haafidz's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=tokyonight)
+![yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=tokyonight)
