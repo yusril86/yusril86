@@ -8,4 +8,4 @@ welcome to my profile
 </a>
 <br> -->
 
-![Yusril GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=yusril86&show_icons=true&theme=algolia)
+![Yusril GitHub stats](https://https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia)
