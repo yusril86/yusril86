@@ -35,4 +35,4 @@ welcome to my profile
 
 </br>
 
-I am constantly working on developing my skills especially in creating and managing mobile applications. Open to learning new technologies and participating in interesting projects. You can reach me via email <a href="yusril886@gmail.com"> yusril886@gmail.com </a>
+I am constantly working on developing my skills especially in creating and managing website and mobile applications. Open to learning new technologies and participating in interesting projects. You can reach me via email <a href="yusril886@gmail.com"> yusril886@gmail.com </a>
