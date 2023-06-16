@@ -8,4 +8,28 @@ welcome to my profile
 </a>
 <br> -->
 
-![Yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia)
+<!-- Github Stats  -->
+<!-- ![Yusril GitHub stats](https://github-readme-stats.vercel.app/api?username=yusril86&show_icons=true&theme=algolia) -->
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yusril-anwar/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+</a>
+
+<a href="https://play.google.com/store/apps/dev?id=5760765252450517608&hl=in">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+</div>
+</a>
+
+<a href="http://yusril.makkode.com/">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Personal"/>
+</div>
+</a>
+
+</div>
+
+</br>
+
+I am constantly working on developing my skills especially in creating and managing mobile applications. Open to learning new technologies and participating in interesting projects. You can reach me via email <a href="yusril886@gmail.com"> yusril886@gmail.com </a>
